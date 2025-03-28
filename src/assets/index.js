@@ -1,6 +1,6 @@
 import inmersa from "./inmersa.svg";
 import check from "./check.svg";
-import brainwaveSymbol from "./brainwave-symbol.svg";
+import inmersaSymbol from "./inmersa-symbol.png";
 import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
@@ -80,7 +80,7 @@ export {
   check,
   check2,
   loading1,
-  brainwaveSymbol,
+  inmersaSymbol,
   brainwaveWhiteSymbol,
   play,
   gradient,
