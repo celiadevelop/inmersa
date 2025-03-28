@@ -77,13 +77,13 @@ export const notificationImages = [notification4, notification3, notification2];
 
 export const companyLogos = [inmersa];
 
-export const brainwaveServices = [
+export const inmersaServices = [
   "VR generating",
   "VR enhance",
   "Seamless Integration",
 ];
 
-export const brainwaveServicesIcons = [
+export const inmersaServicesIcons = [
   recording03,
   recording01,
   disc02,

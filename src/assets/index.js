@@ -1,7 +1,6 @@
 import inmersa from "./inmersa.svg";
 import check from "./check.svg";
 import inmersaSymbol from "./inmersa-symbol.png";
-import brainwaveWhiteSymbol from "./brainwave-symbol-white.svg";
 import play from "./play.svg";
 import gradient from "./gradient.png";
 import smallSphere from "./small2.png";
@@ -81,7 +80,6 @@ export {
   check2,
   loading1,
   inmersaSymbol,
-  brainwaveWhiteSymbol,
   play,
   gradient,
   smallSphere,

@@ -1,7 +1,7 @@
 import Section from "./Section";
 import Heading from "./Heading";
 import { service1, service2, service3, check } from "../assets";
-import { brainwaveServices, brainwaveServicesIcons } from "../constants";
+import { inmersaServices, inmersaServicesIcons } from "../constants";
 import {
   PhotoChatMessage,
   Gradient,
@@ -38,7 +38,7 @@ const Services = () => {
                 Inmersa unlocks the potential of VR
               </p>
               <ul className="body-2">
-                {brainwaveServices.map((item, index) => (
+                {inmersaServices.map((item, index) => (
                   <li
                     key={index}
                     className="flex items-start py-4 border-t border-n-6"
@@ -84,7 +84,7 @@ const Services = () => {
                 </p>
 
                 <ul className="flex items-center justify-between">
-                  {brainwaveServicesIcons.map((item, index) => (
+                  {inmersaServicesIcons.map((item, index) => (
                     <li
                       key={index}
                       className={`rounded-2xl flex items-center justify-center ${
