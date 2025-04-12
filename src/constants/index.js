@@ -80,7 +80,7 @@ export const companyLogos = [inmersa];
 export const inmersaServices = [
   "VR generating",
   "VR enhance",
-  "Seamless Integration",
+  "Perfect Integration",
 ];
 
 export const inmersaServicesIcons = [
